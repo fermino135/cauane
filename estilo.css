@@ -1,0 +1,23 @@
+h1{
+    color:black;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+p{
+     text-align: justify;
+}
+.textored { /*v aui e o modo que usamos classes*/
+     color: beige;
+}
+#azul{
+    color: beige;
+}
+body{
+    background-color: papayawhip
+}
+#color{
+    color: black;
+}
+ 
